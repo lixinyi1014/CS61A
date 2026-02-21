@@ -1,29 +1,17 @@
-# This is my work for CS61A
-
-click this website and begin your journey:[2024 fall cs61a](https://insideempire.github.io/CS61A-Website-Archive/)
-
+#CS61A
+## 这里存储了我在CS61A 2024 fall的课程中进行的工作
+课程网站：[2024 fall cs61a](https://insideempire.github.io/CS61A-Website-Archive/)
 如果你缺乏灵感，可以参考我的代码，但它一定不是最完美的
 
-
-
 ## 使用指南：
-
 对于任意文件夹，如lab00,hw00
-
 在里面找到与文件名相同名称的python文件，即为你需要work for的内容
-
 如在lab00中，找到lab00.py，点开即可。
-
-
-
 ## 学习路线
 
 ### 先修知识
-
 理论上这门课不需要任何先修知识，然而对于小白来说，这门课是比较困难的。
-
 我推荐您至少懂得python的基本语法后开始学习
-
 ### 学习内容
 
 #### 目标：Python, Scheme, SQL的初步掌握
@@ -41,3 +29,39 @@ click this website and begin your journey:[2024 fall cs61a](https://insideempire
 如果你希望学习过程轻松且有效，我建议recording->lab,hm,project即可，附加题不用做。
 
 但这是值得二刷的项目，欢迎第二遍来的时候补完剩余的部分。
+
+## This repository stores my work from the CS61A Fall 2024 course  
+Course Website: [2024 Fall CS61A](https://insideempire.github.io/CS61A-Website-Archive/)  
+
+If you're short on inspiration, feel free to refer to my code, but it’s definitely not the perfect solution.  
+
+## User Guide  
+
+For any folder, such as `lab00` or `hw00`,  
+find the Python file with the same name as the folder—that’s the file you need to work on.  
+
+For example, in `lab00`, locate `lab00.py` and open it.  
+
+## Learning Path  
+
+### Prerequisites  
+
+Theoretically, this course doesn’t require any prior knowledge. However, for beginners, it can be quite challenging.  
+
+I recommend that you at least understand the basic syntax of Python before starting.  
+
+### Course Content  
+
+#### Goal: Gain a foundational understanding of Python, Scheme, and SQL  
+
+#### Overview:  
+
+Abstraction will be a major theme in this course. You will learn about functional programming, data abstraction, object-oriented programming, and more—all aimed at making your code more readable and modular. Naturally, learning programming languages is also a key focus. You will gain proficiency in Python, Scheme, and SQL.  
+
+#### Path:  
+
+What you need to review: videos, recordings (if accessible), textbooks, slides  
+What you need to work on: discussions, labs, homework, projects  
+
+If you want a smoother and more efficient learning experience, I recommend focusing on recordings → labs, homework, and projects. You don’t need to complete the optional/challenge questions.  
+However, this course is worth revisiting. When you come back for a second round, feel free to complete the remaining parts.
